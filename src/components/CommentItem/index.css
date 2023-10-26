@@ -1,0 +1,88 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+.span-text {
+  margin-right: 10px;
+  border-radius: 25px;
+  color: #ffffff;
+  padding-top: 2px;
+  padding-bottom: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.itemName {
+  font-family: 'Roboto';
+  color: #334155;
+  font-size: 25px;
+}
+.itemComment {
+  font-family: 'Roboto';
+  color: #64748b;
+  font-weight: 700;
+  margin-left: 45px;
+}
+.horizontal-line {
+  margin-top: 10px;
+  color: #64748b;
+  width: 58vw;
+  margin-left: 0px;
+}
+.each-comment {
+  margin-top: 50px;
+}
+.date {
+  color: #94a3b8;
+  font-size: 12px;
+  font-family: 'Roboto';
+  margin-left: 10px;
+}
+.bottom-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.bg-container {
+  width: 78%;
+}
+.like-button {
+  background-color: transparent;
+  border-width: 0px;
+}
+.like {
+  margin-left: 10px;
+  font-size: 13px;
+  font-family: 'Roboto';
+}
+.like-container {
+  display: flex;
+  align-items: center;
+}
+.blue-color {
+  color: #0b69ff;
+}
